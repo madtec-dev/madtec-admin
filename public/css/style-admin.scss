@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+}
+/***** HELPERS *****/
+
+.vertical--middle {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+.vertical--middle > *{
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+/***** LOGIN *****/
+.login {
+  color: #fefefe;
+  input, .input-group-addon {
+    background: #3c4043 none repeat scroll 0 0;
+    border: medium none;
+    box-shadow: none;
+    color: #fff;
+    font-size: 1.1em;
+    font-weight: 200;
+    line-height: 1.4em;
+    margin: 0;
+    position: relative;
+    transition: background 0.25s ease 0s;
+  }
+}
+
+
+body {
+  background-color: #1e1e1e;
+}

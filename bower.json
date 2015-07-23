@@ -1,0 +1,23 @@
+{
+  "name": "madtec-admin",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+ "dependencies": {
+   "inuit-starter-kit": "~0.2.9",
+   "inuit-spacing-responsive": "~0.0.7",
+   "inuit-widths-responsive": "~0.2.2",
+   "inuit-spacing": "~0.6.2",
+   "inuit-spacing-responsive": "~0.0.4",
+   "inuit-list-bare": "~0.3.0",
+   "inuit-media": "~0.4.2",
+   "inuit-flag": "~0.3.2",
+   "inuit-list-inline": "~0.3.2",
+   "inuit-buttons": "~0.4.1",
+   "inuit-tools-widths": "~0.1.4",
+   "inuit-layout": "~0.3.2"
+ }
+}
